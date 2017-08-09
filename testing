@@ -1,0 +1,23 @@
+<html>
+<body>
+<css>
+<style> h1 {color:red; 
+            margin: 30px; 
+            border: 0 2px 0 2px;}
+        p  {margin: 2px;
+        	color: blue;}
+
+        ol {margin: 10px; padding: 10px; color: red;}
+
+        h2 {margin: 20px; color: red;}
+</style>
+</css>
+<h1> Work Portfolio </h1>
+<p> This is a website to showcase the artwork created in the past </p>
+<ol>
+<li> <a href="logos.html"> Logos </a> </li>
+<li> <a href="renders.html"> Renders </a> </li>
+<li> <a href="appareldesign.html"> Apparel design </a></li>
+<li> <a href="branding.html"> Branding </a> </li>
+</ol>
+<h2> If you would like more information please email to <a href="mailto:designservicesvf@gmail.com"> designservicesvf@gmail.com </a><h2>
